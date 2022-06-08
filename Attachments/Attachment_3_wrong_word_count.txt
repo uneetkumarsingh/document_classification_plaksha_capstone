@@ -1,0 +1,62 @@
+./Manuscript for a book/Life Sciences/Original/MOCQK_1_input.json
+./Manuscript for a book/Life Sciences/Original/XBAWJ_1_input.json
+./Abstract/Physical Sciences/Original/COMPE_50_input.json
+./Abstract/Physical Sciences/Original/HOAAP_340_input.json
+./Abstract/Physical Sciences/Original/KYOBO_510_input.json
+./Abstract/Physical Sciences/Original/UJHOU_72_input.json
+./Abstract/Physical Sciences/Original/GSAIJ_1_input.json
+./Abstract/Physical Sciences/Original/CNUNI_5066_input.json
+./Abstract/Physical Sciences/Original/FRDJL_451_input.json
+./Abstract/Humanities/Original/GINUE_27_input.json
+./Abstract/Humanities/Original/WOEEE_2_input.json
+./Abstract/Humanities/Original/KRAM_33_input.json
+./Abstract/Life Sciences/Original/FRDJL_713_input.json
+./Abstract/Life Sciences/Original/FRDJL_625_input.json
+./Abstract/Life Sciences/Original/FRDJL_646_input.json
+./Abstract/Life Sciences/Original/SOEOB_1_input.json
+./Abstract/Life Sciences/Original/FRDJL_618_input.json
+./Abstract/Life Sciences/Original/WASOI_1_input.json
+./Abstract/Medicine/Original/UYDAZ_1_input.json
+./Abstract/Medicine/Original/CXUYL_754_input.json
+./Abstract/Medicine/Original/CXUYL_755_input.json
+./Abstract/Medicine/Original/SJSUV_9_input.json
+./Thesis_Dissertation/Physical Sciences/Original/HSGWO_1_input.json
+./Thesis_Dissertation/Medicine/Original/FYLNS_1_input.json
+./Paper for a conference/Physical Sciences/Original/OJHQL_7_input.json
+./Response to reviewer comments/Humanities/Original/BCRGA_1_input.json
+./Response to reviewer comments/Humanities/Original/IIQPM_2_input.json
+./Response to reviewer comments/Humanities/Original/QNDCD_2_input.json
+./Response to reviewer comments/Humanities/Original/HCTRM_5065_input.json
+./Response to reviewer comments/Humanities/Original/OHGTD_5_input.json
+./Response to reviewer comments/Humanities/Original/FUSNF_2_input.json
+./Response to reviewer comments/Humanities/Original/HCTRM_3927_input.json
+./Response to reviewer comments/Life Sciences/Original/OJIAY_1_input.json
+./Response to reviewer comments/Life Sciences/Original/IUVAX_1_input.json
+./Response to reviewer comments/Life Sciences/Original/FEGDA_1_input.json
+./Response to reviewer comments/Life Sciences/Original/JJETG_1_input.json
+./Response to reviewer comments/Medicine/Original/ATIAT_1_input.json
+./Response to reviewer comments/Medicine/Original/HCTRM_5197_input.json
+./Research paper_Journal article/Physical Sciences/Original/ELSVR_72910_input.json
+./Research paper_Journal article/Physical Sciences/Original/IPRCF_1_input.json
+./Research paper_Journal article/Physical Sciences/Original/ELSVR_73252_input.json
+./Research paper_Journal article/Physical Sciences/Original/BBFHB_2_input.json
+./Research paper_Journal article/Physical Sciences/Original/KORGR_138_input.json
+./Research paper_Journal article/Humanities/Original/ELSVR_67585_input.json
+./Research paper_Journal article/Humanities/Original/MOCYR_1_input.json
+./Research paper_Journal article/Humanities/Original/PBSWG_1_input.json
+./Research paper_Journal article/Humanities/Original/CAUNE_6851_input.json
+./Research paper_Journal article/Humanities/Original/AFBOC_3_input.json
+./Research paper_Journal article/Life Sciences/Original/UWWEI_9_input.json
+./Research paper_Journal article/Life Sciences/Original/OKIDI_1_input.json
+./Research paper_Journal article/Life Sciences/Original/ELSVR_63482_input.json
+./Research paper_Journal article/Life Sciences/Original/GFYYH_1_input.json
+./Research paper_Journal article/Life Sciences/Original/ELSVR_80799_input.json
+./Research paper_Journal article/Medicine/Original/HJINZ_1_input.json
+./Research paper_Journal article/Medicine/Original/DRDRW_3_input.json
+./Research paper_Journal article/Medicine/Original/YEEZL_34_input.json
+./Research paper_Journal article/Medicine/Original/MHYUM_1_input.json
+./Research paper_Journal article/Medicine/Original/HELIX_709_input.json
+./Research paper_Journal article/Medicine/Original/ENYIC_2_input.json
+./Case report/Physical Sciences/Original/WGWSZ_1_input.json
+./Case report/Humanities/Original/CMNUG_7_input.json
+./Case report/Humanities/Original/ONARV_1_input.json
