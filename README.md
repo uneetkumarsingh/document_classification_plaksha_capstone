@@ -1,25 +1,4 @@
-# document_classification_plaksha_capstone
-API
-Update script.py
-11 minutes ago
-Attachments
-pushing to git
-5 days ago
-Data
-pushing to git
-5 days ago
-Notebooks
-pushing to git
-5 days ago
-models
-pushing to git
-5 days ago
-streamlit_app
-Update README.md
-1 minute ago
-Cactus_Capstone_Report.pdf
-
-DOCUMENT CLASSIFICATION APPLICATION 
+#DOCUMENT CLASSIFICATION APPLICATION 
 
 Below is the explaination for how files are organised:
 1. API: This repo includes code and models for functional API's. These API's can be integrated into any downstream applications. Detailed instructions are inside the API repo. 
