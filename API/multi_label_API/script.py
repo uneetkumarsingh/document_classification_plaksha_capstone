@@ -104,7 +104,7 @@ def predict(model, vectorizer, file_path):
     t2 = time()
     y = convert_multilabel(model.predict(x))
     t3 = time()
-    prob = np.max(model.predict_proba(x))
+    prob = np.prod(np.max(np.array(model.predict_proba(x)).squeeze(1),axis = 1))
     return {"class":y, "probability":prob, "vectorization_time":t2-t1, "inference_time":t3-t2}
 
 
