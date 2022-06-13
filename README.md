@@ -1,7 +1,7 @@
 # DOCUMENT CLASSIFICATION APPLICATION 
 
 Below is the explaination for how files are organised:
-1. API: This repo includes code and models for functional API's. These API's can be integrated into any downstream applications. Detailed instructions are inside the API repo. 
+1. API: This repo includes code and models for functional API's. These API's can be integrated into any downstream applications. Detailed instructions are inside the API repo. There are two APIs for each of the two pairs as described in pt 5(one for 5.1 and one for 5.2)
 2. Attachements: This has files/documents/appendix data that has been referenced in the Capstone report
 3. Data: This includes processed data in the form of csv files. This data was used for training and testing puposes. 
 4. Notebooks: This includes notebooks for Preprocessing, EDA, Training and Benchmarking of Models. 
