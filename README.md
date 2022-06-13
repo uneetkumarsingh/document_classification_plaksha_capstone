@@ -16,5 +16,5 @@ Below is the explaination for how files are organised:
 
    5.2.2 tfidf_v3_c_min_max_df.sav : This Tfidf vectoriser is to be used with above model. 
 
-6. streamlit_app: This includes files for streamlit app. Models 5.1.1 and 5.1.2 have been used for this application. This app is deployed at 
+6. streamlit_app: This includes files for streamlit app. Models 5.1.1 and 5.1.2 have been used for this application. This app is deployed at https://share.streamlit.io/uneetkumarsingh/streamlit_app/main/streamlit.py
 7. Cactus_Capstone_Report.pdf : This is a complete report of the hypothesis, exploration, experiments, results and learnings while doing the project. 
