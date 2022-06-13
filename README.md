@@ -1,4 +1,4 @@
-#DOCUMENT CLASSIFICATION APPLICATION 
+# DOCUMENT CLASSIFICATION APPLICATION 
 
 Below is the explaination for how files are organised:
 1. API: This repo includes code and models for functional API's. These API's can be integrated into any downstream applications. Detailed instructions are inside the API repo. 
