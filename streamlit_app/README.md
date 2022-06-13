@@ -11,3 +11,6 @@ Bug:
 While deploying there were some issue linked to tkinter. Same was resolved using following thread
 https://discuss.streamlit.io/t/tkinter-import-failed-during-app-deployment/23529
 We added a packages.txt file for this purpose. 
+
+This streamlit app has been deployed on streamlit cloud and can be accessed at:
+https://share.streamlit.io/uneetkumarsingh/streamlit_app/main/streamlit.py 
